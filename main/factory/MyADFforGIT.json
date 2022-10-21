@@ -1,0 +1,9 @@
+{
+	"name": "MyADFforGIT",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "450f5e5b-cd86-48e4-880d-e1bcd9223fdb",
+		"tenantId": "dccfcb8d-a808-49df-aafe-d6bed33a444e"
+	}
+}
